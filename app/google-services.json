@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "42881058177",
+    "firebase_url": "https://coordenadas-389de.firebaseio.com",
+    "project_id": "coordenadas-389de",
+    "storage_bucket": "coordenadas-389de.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42881058177:android:3f943d55360de59aaa1480",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u4_practica3_ricardovilla"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42881058177-hsfho0npshma54satvgm0j2d6dlqiaot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLdxgdKfJ2c99JJHWqoTZr9Gm6RtyFi8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42881058177-hsfho0npshma54satvgm0j2d6dlqiaot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42881058177:android:92ffdda72860c744aa1480",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u5_ejercicio1_geomapatec"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42881058177-hsfho0npshma54satvgm0j2d6dlqiaot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLdxgdKfJ2c99JJHWqoTZr9Gm6RtyFi8M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42881058177-hsfho0npshma54satvgm0j2d6dlqiaot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
